@@ -1,4 +1,4 @@
-Package: SNPfreq
+Package: Lab4trial
 Version: 0.0
 Date: 2017-11-14
 Title: SNP Allele Frequency Estimation and Utilities
@@ -9,3 +9,5 @@ Maintainer: Selina Ruzi <sruzi24@gmail.com>
 Description: This package includes functions to estimate minor allele
   frequencies from numerical SNP data, plot historgrams of minor allele frequences,
   and filter SNP data based on minor allele frequencies.
+Url: https://github.com/sruzi24/Lab4trial2
+License: GPL-3
