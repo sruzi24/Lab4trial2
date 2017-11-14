@@ -1,3 +1,2 @@
 export(minorAlleleFrequency, filterSNPs, mafHist)
-S3method(fn, cls)
 importFrom("graphics", "hist")
