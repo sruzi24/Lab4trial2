@@ -7,4 +7,4 @@ Author: Selina Ruzi [aut, cre]
 Maintainer: Selina Ruzi <sruzi24@gmail.com>
 Description: This package includes functions to estimate minor allele frequencies from numerical SNP data, plot historgrams of minor allele frequences, and filter SNP data based on minor allele frequencies.
 Url: https://github.com/sruzi24/Lab4trial2
-Licence: NA
+License: GPL-3
