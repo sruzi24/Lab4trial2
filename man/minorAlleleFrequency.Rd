@@ -32,15 +32,7 @@ with columns removed for SNPs with very rare alleles
 \author{
 SAR
 }
-\note{
-%%  ~~further notes~~
-}
 
-%% ~Make other sections like Warning with \section{Warning }{....} ~
-
-%\seealso{
-%% ~~objects to See Also as \code{\link{help}}, ~~~
-%}
 \examples{
 B <- matrix(c(2, 4, 3, 1, 5, 7), nrow=3,ncol=2)
 minorAlleleFrequency(B)
