@@ -1,0 +1,2 @@
+export(minorAlleleFrequency, filterSNPs, mafHist)
+S3method(fn, cls)
